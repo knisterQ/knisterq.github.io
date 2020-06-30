@@ -14,3 +14,7 @@ Memento ist ein Kriminalfilm aus dem Jahr 2000 des Regisseurs Christopher Nolan,
 * Auszeichnungen
 * Weblinks
 * Einzelnachweise
+
+<img src="https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR0,0,182,268_AL_.jpg"/>
+
+
