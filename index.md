@@ -1,3 +1,3 @@
 # My favorite movie: Memento
 
-A website for my favourite character is currently being built here!
+Memento ist ein Kriminalfilm aus dem Jahr 2000 des Regisseurs Christopher Nolan, basierend auf der Kurzgeschichte „Memento mori“ seines Bruders Jonathan. Das markanteste Merkmal des komplexen Films sind die beiden Handlungsstränge, von denen jeweils einer in der korrekten (Szenen in Schwarz/Weiß) und einer in entgegengesetzt chronologischer (Farbe) Reihenfolge der Szenen abläuft. Die Hauptperson Leonard, gespielt von Guy Pearce, wird in seinem Haus von einem Einbrecher überfallen, und verliert nach einem traumatischen Ereignis die Fähigkeit, neue Erinnerungen zu bilden. Memento wurde 2000 in Großbritannien, weiteren Teilen Europas und Kanada veröffentlicht. In den USA und Deutschland erschien der Film erst im Jahr 2001.
